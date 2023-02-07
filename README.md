@@ -1,3 +1,5 @@
+Wake up dependabot after default branch change
+
 # personal-website
 
 ## Project setup
